@@ -1,0 +1,13 @@
+.notFound {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 130vh;
+  padding: 30px;
+}
+.notImage {
+  width: 50%;
+}

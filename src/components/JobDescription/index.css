@@ -1,0 +1,60 @@
+.jobCard1 {
+  text-decoration: none;
+  color: white;
+}
+.card12 {
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.netCard {
+  display: flex;
+  align-items: center;
+}
+.starCard {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+}
+.comlogo {
+  width: 9%;
+  margin-right: 15px;
+}
+.headCard {
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+.starStyle {
+  font-size: 20px;
+  color: #fbbf24;
+  margin-right: 5px;
+}
+.starPara {
+  font-size: 20px;
+}
+.empCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+.locCard {
+  display: flex;
+  align-items: center;
+  width: 30%;
+}
+.war {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.empS {
+  margin-left: 5px;
+}
+.desPara {
+  font-size: 22px;
+}
+.despa {
+  font-size: 15px;
+}

@@ -1,0 +1,57 @@
+.detailCard {
+  background-color: black;
+  height: 200vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+.detailMini {
+  width: 85%;
+}
+.detailLoad {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.detailCont {
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 25px;
+  color: white;
+}
+.desCrip {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.visitBut {
+  background-color: transparent;
+  border: 0px;
+  color: #4f46e5;
+  font-size: 17px;
+}
+.skillUnorder {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.skillsHead {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.lifeCard {
+  display: flex;
+}
+.simHeading {
+  color: white;
+  margin-top: 30px;
+  font-size: 25px;
+}
+.simUnorder {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}

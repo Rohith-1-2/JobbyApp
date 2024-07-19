@@ -1,0 +1,19 @@
+.proLoad {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profileBg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 30px;
+}
+.proHead {
+  color: #6366f1;
+}
+.proPara {
+  color: #475569;
+}

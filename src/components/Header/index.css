@@ -1,0 +1,35 @@
+.navCard {
+  background-color: #272727;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+}
+.navImage {
+  width: 10%;
+}
+.navButton {
+  background-color: #6366f1;
+  border: 0px;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+  width: 70px;
+}
+.hyper {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.headerUnorder {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  width: 60%;
+}
+.firstOne {
+  flex-grow: 1;
+}

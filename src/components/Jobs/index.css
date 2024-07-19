@@ -1,0 +1,84 @@
+.jobBg {
+  background-color: #121212;
+  height: 2000vh;
+  display: flex;
+  align-items: flex-start;
+  padding: 20px;
+}
+.first {
+  width: 30%;
+  flex-shrink: 0;
+  padding-left: 40px;
+  margin-right: 25px;
+}
+.second {
+  flex-grow: 1;
+}
+.searchCard {
+  background-color: transparent;
+  border: 1px solid #7e858e;
+  width: 35%;
+  display: flex;
+  border-radius: 5px;
+  height: 30px;
+}
+.inputSea {
+  outline: none;
+  padding-left: 10px;
+  border: 0px;
+  background-color: transparent;
+  flex-grow: 1;
+  color: #7e858e;
+}
+.searchBut {
+  background-color: #272727;
+  color: #7e858e;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 12%;
+}
+.jobUnorder {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.employCard {
+  color: white;
+}
+.employHead {
+  font-size: 18px;
+}
+.jobHr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.load {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.fail {
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+.retryBut {
+  background-color: #6366f1;
+  padding: 5px;
+  border: 0px;
+  width: 60px;
+  color: white;
+  border-radius: 5px;
+}
+.noJob {
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+.noPara {
+  font-size: 10px;
+}
+.unorder {
+  list-style-type: none;
+  padding-left: 0px;
+}
